@@ -1,4 +1,4 @@
-# CSE-307 Track 1 — Learning-Augmented Page Replacement
+# CSE-307 Track 1 - Learning-Augmented Page Replacement
 
 ## Project Title
 
