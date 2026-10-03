@@ -1,0 +1,4 @@
+Group,Decision_Count,Correct_Count,Accuracy
+Overall,1227,448,0.36511817440912797
+High_Confidence,271,100,0.36900369003690037
+Lower_Confidence,956,348,0.36401673640167365

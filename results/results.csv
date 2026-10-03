@@ -1,0 +1,5 @@
+Policy,Phase1_Faults,Phase1_Hits,Phase1_Hit_Ratio,Phase2_Faults,Phase2_Hits,Phase2_Hit_Ratio,Total_Faults,Total_Hits,Total_Hit_Ratio
+FIFO,385,615,0.615,844,156,0.156,1229,771,0.3855
+LRU,378,622,0.622,849,151,0.151,1227,773,0.3865
+Optimal,221,779,0.779,646,354,0.354,867,1133,0.5665
+Learned,400,600,0.6,830,170,0.17,1230,770,0.385
